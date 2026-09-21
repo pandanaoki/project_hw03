@@ -1,0 +1,10 @@
+    h2 {
+        color: red;
+    }
+    hr {
+        border: 2px solid blue;
+    }
+    p {
+      font-family: "Comic Sans MS", cursive;
+      font-size: 20pt;
+    }
